@@ -18,9 +18,9 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@SuperSmart84](https://t.me/SuperSmart84)
-- 💬 Discord: SuperSmart#7171
-- 📝 Email : smartdev@innovdevteam.com
+- 💬 Telegram : [@NinJaDeDev](https://t.me/NinJaDeDev)
+- 💬 Discord: NinjaDev#4048
+- 📝 Email : ninja@innovdevteam.com
 
 **Languages and Tools:**   
 
