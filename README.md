@@ -38,6 +38,6 @@ I have developed many successful sites so far with mentioned skills.
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSCNinja&layout=compact)](https://github.com/DevSCNinja/github-readme-stats)
-![SmartNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSCNinja&count_private=true)
+![SmartNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=felangel&count_private=true)
 
 ⭐️ From [SmartNinja](https://github.com/DevSCNinja)
