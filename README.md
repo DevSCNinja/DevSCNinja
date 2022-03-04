@@ -1,5 +1,3 @@
-[![Smart Ninja's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSCNinja)](https://github.com/DevSCNinja/github-readme-stats)
-
 ### ✨ Legend ✨ of Developer [Smart Ninja](https://t.me/SuperSmart84)  
 
 <br/>
