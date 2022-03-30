@@ -21,6 +21,7 @@ I have developed many successful sites so far with mentioned skills.
 **Connect with me:**
 - 💬 Telegram : [@NinJaDeDev](https://t.me/NinJaDeDev)
 - 💬 Discord: NinjaDev#4048
+- 📝 Email : james.blockchain.dev@gmail.com
 - 📝 Email : ninja@innovdevteam.com
 
 **Languages and Tools:**   
