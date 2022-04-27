@@ -24,8 +24,6 @@ I have developed many successful sites so far with mentioned skills.
 - 📝 Email : james.blockchain.dev@gmail.com
 
 **Languages and Tools:**   
-
-## Languages and Tools
 <table>
    <tr>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="android" height="45"></td>
