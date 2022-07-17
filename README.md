@@ -20,7 +20,7 @@ I have developed many successful sites so far with mentioned skills.
 
 **Connect with me:**
 - 💬 Telegram : [@smartninja1028](https://t.me/smartninja1028)
-- 💬 Discord: NinjaDev#4048
+- 💬 Discord: SmartNinja#4048
 - 📝 Email : james.blockchain.dev@gmail.com
 
 **Languages and Tools:**   
