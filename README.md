@@ -21,7 +21,7 @@ I have developed many successful sites so far with mentioned skills.
 **Connect with me:**
 - 💬 Telegram : [@smartninjaBL](https://t.me/smartninjaBL)
 - 💬 Discord: SmartNinja#3195
-- 📝 Email : james.blockchain.dev@gmail.com
+- 📝 Email : koko.brother1050@gmail.com
 
 **Languages and Tools:**   
 <table>
