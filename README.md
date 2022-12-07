@@ -20,8 +20,8 @@ I have developed many successful sites so far with mentioned skills.
 
 **Connect with me:**
 - 💬 Telegram : [@smartninjaBL](https://t.me/smartninjaBL)
-- 💬 Discord: SmartNinja#3195
-- 📝 Email : koko.brother1050@gmail.com
+- 💬 Discord: SmartNinja#4048
+- 📝 Email : smartninja1028@gmail.com
 
 **Languages and Tools:**   
 <table>
