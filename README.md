@@ -16,11 +16,6 @@ I have developed many successful sites so far with mentioned skills.
 - 🌱 I’m currently learning Cloud Computing
 - 📫 Ask me about anything, I am happy to help
 
-**Connect with me:**
-- 💬 Telegram : [@smartninjaBL](https://t.me/smartninjaBL)
-- 💬 Discord: SmartNinja#4048
-- 📝 Email : smartninja1028@gmail.com
-
 **Languages and Tools:**   
 <table>
    <tr>
