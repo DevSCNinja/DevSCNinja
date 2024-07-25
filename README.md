@@ -1,4 +1,4 @@
-### ✨ Legend ✨ Developer 🚀 [Smart Ninja](https://t.me/SuperSmart84)  🚀
+### ✨ Sr ✨ Developer 🚀 [Smart Ninja](https://t.me/SuperSmart84)  🚀
 
 <br/>
 
